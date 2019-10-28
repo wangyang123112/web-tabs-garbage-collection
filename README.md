@@ -1,2 +1,5 @@
-# web-tabs-garbage-collection
-automatic clear unnecessary tables 在网页太多的情况下，自动清理网页标签的chrome plugin
+# 作用
+你平时有没有在写代码的时候，同时打开很多网页，这带来两个问题
+> 1.网页内存占用问题
+  2.从一大堆标签中找到自己需要的网页很困难
+  
